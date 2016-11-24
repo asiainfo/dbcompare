@@ -1,2 +1,2 @@
 # dbcompare
-PDM比对工具，pdm compare tools
+吴平福 PDM比对工具，pdm compare tools
